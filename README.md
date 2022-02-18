@@ -8,6 +8,8 @@
 
 ![Sleep GitHub stats](https://github-readme-stats.vercel.app/api?username=sleeptd2&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleeptd2&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que estou me desenvolvendo 
 
 <div style="display: inline_block"><br/>
